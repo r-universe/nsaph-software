@@ -1,5 +1,9 @@
 [
   {
+    "package": "CausalGPS",
+    "oncran": true
+  },
+  {
     "package": "GPCERF",
     "oncran": true
   }
