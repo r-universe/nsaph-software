@@ -1,14 +1,14 @@
 [
   {
+    "package": "GPCERF",
+    "oncran": true
+  },
+  {
     "package": "CausalGPS",
     "oncran": true
   },
   {
     "package": "CRE",
-    "oncran": true
-  },
-  {
-    "package": "GPCERF",
     "oncran": true
   }
 ]
