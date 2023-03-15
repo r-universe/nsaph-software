@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GPCERF"]
-	path = GPCERF
-	url = https://github.com/nsaph-software/gpcerf
-	shallow = true
-	registered = true
 [submodule "CausalGPS"]
 	path = CausalGPS
 	url = https://github.com/nsaph-software/causalgps
@@ -16,5 +11,10 @@
 [submodule "CRE"]
 	path = CRE
 	url = https://github.com/nsaph-software/cre
+	shallow = true
+	registered = true
+[submodule "GPCERF"]
+	path = GPCERF
+	url = https://github.com/nsaph-software/gpcerf
 	shallow = true
 	registered = true
