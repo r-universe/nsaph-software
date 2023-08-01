@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CausalGPS"]
-	path = CausalGPS
-	url = https://github.com/nsaph-software/causalgps
 [submodule "CRE"]
 	path = CRE
 	url = https://github.com/nsaph-software/cre
+[submodule "CausalGPS"]
+	path = CausalGPS
+	url = https://github.com/nsaph-software/causalgps
 [submodule "GPCERF"]
 	path = GPCERF
 	url = https://github.com/nsaph-software/gpcerf
