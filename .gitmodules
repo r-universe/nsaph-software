@@ -8,6 +8,3 @@
 [submodule "CausalGPS"]
 	path = CausalGPS
 	url = https://github.com/nsaph-software/causalgps
-[submodule "GPCERF"]
-	path = GPCERF
-	url = https://github.com/nsaph-software/gpcerf
